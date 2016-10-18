@@ -1,0 +1,8 @@
+{
+  "generator-blog": {
+    "dist": "src/",
+    "pages": [
+      "frontPage"
+    ]
+  }
+}
