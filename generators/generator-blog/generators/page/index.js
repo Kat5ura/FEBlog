@@ -5,7 +5,7 @@ var generators = require('yeoman-generator');
 var _ = require('lodash');
 var fs = require('fs');
 var path = require('path');
-var inject = require('../../../../build/smart-injector').inject;
+var inject = require('gulp-snippet-injector').inject;
 module.exports = generators.Base.extend({
   // The name `constructor` is important here
   constructor: function () {

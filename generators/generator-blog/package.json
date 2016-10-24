@@ -12,5 +12,8 @@
   "files": [
     "generators/component",
     "generators/page"
-  ]
+  ],
+  "devDependencies": {
+    "gulp-snippet-injector": "0.0.3"
+  }
 }
